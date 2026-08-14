@@ -1,31 +1,7 @@
 {
- "updated_at": "2026-08-15 01:50 IST",
- "total": 73,
+ "updated_at": "2026-08-15 01:52 IST",
+ "total": 71,
  "jobs": [
-  {
-   "id": "gal-test1",
-   "source": "Alerts",
-   "title": "TEST ALERT: Cloud Engineer opening",
-   "company": "boards.greenhouse.io",
-   "location": "",
-   "url": "https://boards.greenhouse.io/examplecorp/jobs/12345",
-   "exp": "",
-   "salary": "",
-   "posted": "2026-08-14",
-   "applied": false
-  },
-  {
-   "id": "gal-test2",
-   "source": "Alerts",
-   "title": "TEST ALERT: DevOps role Mumbai",
-   "company": "careers.example.com",
-   "location": "",
-   "url": "https://careers.example.com/devops-role",
-   "exp": "",
-   "salary": "",
-   "posted": "2026-08-14",
-   "applied": false
-  },
   {
    "id": "fr-toparo-devops director",
    "source": "Foreign",
