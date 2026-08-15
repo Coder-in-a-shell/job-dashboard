@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-08-15 01:52 IST",
- "total": 71,
+ "updated_at": "2026-08-15 19:23 IST",
+ "total": 75,
  "jobs": [
+  {
+   "id": "gal-b15208c1e9",
+   "source": "Alerts",
+   "title": "Backend Engineer OR \"Python Developer\" job",
+   "company": "search.jobs.barclays",
+   "location": "",
+   "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/99203724880&ct=ga&cd=CAEYACoTNjcyODQ5Njg4MjEwMjQxNjY3MjIaMTE2MjkxZDI2Y2ExY2U4OTpjb206ZW46VVM&usg=AOvVaw1uFBcieNMQ_lP2fnAn6-eK",
+   "exp": "",
+   "salary": "",
+   "posted": "Fri, 14 Au",
+   "applied": false
+  },
+  {
+   "id": "gal-d16305c8c3",
+   "source": "Alerts",
+   "title": "Backend Engineer OR \"Python Developer\" job",
+   "company": "google.com",
+   "location": "",
+   "url": "https://www.google.com/alerts/remove?source=alertsmail&hl=en&gl=US&msgid=NjcyODQ5Njg4MjEwMjQxNjY3Mg&s=AB2Xq4jVArnonLOeiUSl_pZmdwMU0Oo0d8LyGHI",
+   "exp": "",
+   "salary": "",
+   "posted": "Fri, 14 Au",
+   "applied": false
+  },
+  {
+   "id": "gal-227375264f",
+   "source": "Alerts",
+   "title": "Backend Engineer OR \"Python Developer\" job",
+   "company": "google.com",
+   "location": "",
+   "url": "https://www.google.com/alerts?source=alertsmail&hl=en&gl=US&msgid=NjcyODQ5Njg4MjEwMjQxNjY3Mg",
+   "exp": "",
+   "salary": "",
+   "posted": "Fri, 14 Au",
+   "applied": false
+  },
+  {
+   "id": "gal-227375264f",
+   "source": "Alerts",
+   "title": "Backend Engineer OR \"Python Developer\" job",
+   "company": "google.com",
+   "location": "",
+   "url": "https://www.google.com/alerts?source=alertsmail&hl=en&gl=US&msgid=NjcyODQ5Njg4MjEwMjQxNjY3Mg",
+   "exp": "",
+   "salary": "",
+   "posted": "Fri, 14 Au",
+   "applied": false
+  },
   {
    "id": "fr-toparo-devops director",
    "source": "Foreign",
@@ -33,18 +81,6 @@
    "company": "ProctorU",
    "location": "Remote (Anywhere in the World)",
    "url": "http://meazurelearning.com",
-   "exp": "",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
-   "id": "fr-common securitization solutions-devops engineer",
-   "source": "Foreign",
-   "title": "DevOps Engineer",
-   "company": "Common Securitization Solutions",
-   "location": "Remote (Anywhere in the World)",
-   "url": "http://usfintech.com",
    "exp": "",
    "salary": "",
    "posted": "",
@@ -111,18 +147,6 @@
    "applied": false
   },
   {
-   "id": "fr-five9-senior devops engineer",
-   "source": "Foreign",
-   "title": "Senior DevOps Engineer",
-   "company": "Five9",
-   "location": "Remote (Anywhere in the World)",
-   "url": "http://five9.com",
-   "exp": "",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
    "id": "fr-wme-senior devops engineer, applications",
    "source": "Foreign",
    "title": "Senior DevOps Engineer, Applications",
@@ -147,13 +171,13 @@
    "applied": false
   },
   {
-   "id": "hirist-1649386",
+   "id": "hirist-1641826",
    "source": "Hirist",
-   "title": "AI Platform Engineer (4-6 yrs)",
+   "title": "Antino Labs - DevOps Engineer - Cloud Infrastructure (2-4 yrs)",
    "company": "",
-   "location": "Anywhere in India/Multiple Locations, Remote",
-   "url": "https://www.hirist.tech/j/1649386",
-   "exp": "4-6 yrs",
+   "location": "Mumbai, Gurgaon/Gurugram",
+   "url": "https://www.hirist.tech/j/1641826",
+   "exp": "2-4 yrs",
    "salary": "",
    "posted": "",
    "applied": false
@@ -207,6 +231,18 @@
    "applied": false
   },
   {
+   "id": "hirist-1642556",
+   "source": "Hirist",
+   "title": "Azure DevOps Engineer - CI/CD Pipeline (3-6 yrs)",
+   "company": "",
+   "location": "Mumbai",
+   "url": "https://www.hirist.tech/j/1642556",
+   "exp": "3-6 yrs",
+   "salary": "",
+   "posted": "",
+   "applied": false
+  },
+  {
    "id": "hirist-1639340",
    "source": "Hirist",
    "title": "Azure Infrastructure Engineer (4-7 yrs)",
@@ -231,6 +267,18 @@
    "applied": false
   },
   {
+   "id": "hirist-1644938",
+   "source": "Hirist",
+   "title": "Cloud Infrastructure Engineer - AWS (3-6 yrs)",
+   "company": "",
+   "location": "Pune, Bangalore, Hyderabad, Mumbai",
+   "url": "https://www.hirist.tech/j/1644938",
+   "exp": "3-6 yrs",
+   "salary": "",
+   "posted": "",
+   "applied": false
+  },
+  {
    "id": "hirist-1638624",
    "source": "Hirist",
    "title": "Cloud Infrastructure Engineer - CI/CD Pipeline (3-7 yrs)",
@@ -243,13 +291,13 @@
    "applied": false
   },
   {
-   "id": "hirist-1663238",
+   "id": "hirist-1644104",
    "source": "Hirist",
-   "title": "DataBeat - AWS DevOps Engineer (4-10 yrs)",
+   "title": "Cloud Operations Engineer - Azure (3-6 yrs)",
    "company": "",
-   "location": "Hyderabad",
-   "url": "https://www.hirist.tech/j/1663238",
-   "exp": "4-10 yrs",
+   "location": "Mumbai",
+   "url": "https://www.hirist.tech/j/1644104",
+   "exp": "3-6 yrs",
    "salary": "",
    "posted": "",
    "applied": false
@@ -351,6 +399,18 @@
    "applied": false
   },
   {
+   "id": "hirist-1647973",
+   "source": "Hirist",
+   "title": "L2 Oracle Cloud Infrastructure Engineer (4-6 yrs)",
+   "company": "",
+   "location": "Mumbai",
+   "url": "https://www.hirist.tech/j/1647973",
+   "exp": "4-6 yrs",
+   "salary": "",
+   "posted": "",
+   "applied": false
+  },
+  {
    "id": "hirist-1638254",
    "source": "Hirist",
    "title": "LoadShare Networks - Software Development Engineer III - Platform Engineering (4-8 yrs)",
@@ -442,18 +502,6 @@
    "location": "Mumbai",
    "url": "https://www.hirist.tech/j/1652163",
    "exp": "1-2 yrs",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
-   "id": "hirist-1658046",
-   "source": "Hirist",
-   "title": "Software Infrastructure Engineer - CI/CD Pipeline (3-8 yrs)",
-   "company": "",
-   "location": "Gurgaon/Gurugram, Noida, Delhi NCR",
-   "url": "https://www.hirist.tech/j/1658046",
-   "exp": "3-8 yrs",
    "salary": "",
    "posted": "",
    "applied": false
