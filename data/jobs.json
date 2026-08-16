@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-15 19:23 IST",
- "total": 75,
+ "updated_at": "2026-08-16 20:45 IST",
+ "total": 73,
  "jobs": [
   {
    "id": "gal-b15208c1e9",
@@ -87,18 +87,6 @@
    "applied": false
   },
   {
-   "id": "fr-avalon administrative services-devops engineer iii",
-   "source": "Foreign",
-   "title": "DevOps Engineer III",
-   "company": "Avalon Administrative Services",
-   "location": "Remote (Anywhere in the World)",
-   "url": "http://avalonhcs.com",
-   "exp": "",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
    "id": "fr-miratech-devops engineer with splunk",
    "source": "Foreign",
    "title": "DevOps Engineer with Splunk",
@@ -141,18 +129,6 @@
    "company": "Leidos",
    "location": "Remote (Anywhere in the World)",
    "url": "http://leidos.com",
-   "exp": "",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
-   "id": "fr-wme-senior devops engineer, applications",
-   "source": "Foreign",
-   "title": "Senior DevOps Engineer, Applications",
-   "company": "WME",
-   "location": "Remote (Anywhere in the World)",
-   "url": "http://wmeagency.com",
    "exp": "",
    "salary": "",
    "posted": "",
@@ -310,6 +286,18 @@
    "location": "Bangalore",
    "url": "https://www.hirist.tech/j/1639764",
    "exp": "3-6 yrs",
+   "salary": "",
+   "posted": "",
+   "applied": false
+  },
+  {
+   "id": "hirist-1659428",
+   "source": "Hirist",
+   "title": "DevOps Engineer (3-8 yrs)",
+   "company": "",
+   "location": "Others",
+   "url": "https://www.hirist.tech/j/1659428",
+   "exp": "3-8 yrs",
    "salary": "",
    "posted": "",
    "applied": false
@@ -477,18 +465,6 @@
    "company": "",
    "location": "Bangalore",
    "url": "https://www.hirist.tech/j/1643427",
-   "exp": "4-9 yrs",
-   "salary": "",
-   "posted": "",
-   "applied": false
-  },
-  {
-   "id": "hirist-1637035",
-   "source": "Hirist",
-   "title": "Senior DevOps Engineer - CI/CD Pipeline (4-9 yrs)",
-   "company": "",
-   "location": "Bangalore",
-   "url": "https://www.hirist.tech/j/1637035",
    "exp": "4-9 yrs",
    "salary": "",
    "posted": "",
